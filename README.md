@@ -70,5 +70,12 @@ El flujo de trabajo se divide en 4 pasos secuenciales:
 - Genera y descarga las predicciones en formato CSV.
 
 ## 👥 Créditos
-Desarrollado como parte del Trabajo de Fin de Máster (TFM).
-UIDE - Maestría en Inteligencia Artificial.
+Desarrollado como parte del Trabajo de Fin de Máster (TFM). - Trabajo previo a la obtención de título de Magister en Ciencia de Datos y Maquinas de Aprendizaje con Mención en Inteligencia Artificial 
+**Maestría en CIENCIA DE DATOS Y MAQUINAS DE APRENDIZAJE CON MENCIÓN EN INTELIGENCIA ARTIFICIAL - UIDE.**
+
+### Integrantes del Grupo:
+- Eduardo Javier Amaya Oñate
+- Jorge Leonardo Vidal Zambrano
+- Fabricio Enrique Villavicencio Ramos
+- Christian Alexis Yugcha Alomaliza
+
