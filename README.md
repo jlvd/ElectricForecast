@@ -4,6 +4,8 @@ Sistema de predicción de demanda eléctrica desarrollado con **Streamlit**, **P
 
 ![Logo](Logo.png)
 
+**Trabajo previo a la obtención de título de Magister en Ciencia de Datos y Maquinas de Aprendizaje con Mención en Inteligencia Artificial**
+
 ## 📋 Descripción
 ElectricForecast es una herramienta para la ingesta, análisis, entrenamiento y proyección de demanda eléctrica. Permite cargar datos históricos, entrenar modelos de series temporales (Prophet y XGBoost) y generar proyecciones futuras con métricas de evaluación detalladas.
 
@@ -70,7 +72,8 @@ El flujo de trabajo se divide en 4 pasos secuenciales:
 - Genera y descarga las predicciones en formato CSV.
 
 ## 👥 Créditos
-Desarrollado como parte del Trabajo de Fin de Máster (TFM). - Trabajo previo a la obtención de título de Magister en Ciencia de Datos y Maquinas de Aprendizaje con Mención en Inteligencia Artificial 
+Desarrollado como parte del Trabajo de Fin de Máster (TFM).
+
 **Maestría en CIENCIA DE DATOS Y MAQUINAS DE APRENDIZAJE CON MENCIÓN EN INTELIGENCIA ARTIFICIAL - UIDE.**
 
 ### Integrantes del Grupo:
