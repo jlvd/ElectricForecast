@@ -1,0 +1,10 @@
+streamlit
+pandas
+duckdb
+prophet
+xgboost
+plotly
+openpyxl
+scikit-learn
+scikit-optimize
+

@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+ven/
+
+# Custom Data/Files
+archivos/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
